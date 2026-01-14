@@ -1,0 +1,883 @@
+{
+  "metadata": {
+    "title": "ISO 3166-3: Formerly Used Country Codes",
+    "description": "Codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974",
+    "source": "https://en.wikipedia.org/wiki/ISO_3166-3",
+    "standard": "ISO 3166-3",
+    "version": "2026-01",
+    "total_records": 31,
+    "last_updated": "2026-01-12"
+  },
+  "countries": [
+    {
+      "former_country": {
+        "name": "British Antarctic Territory",
+        "alpha2": "BQ",
+        "alpha3": "ATB",
+        "numeric": null,
+        "iso_3166_3_alpha4": "BQAQ"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1979
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "Antarctica",
+            "alpha2": "AQ",
+            "alpha3": "ATA",
+            "numeric": "010"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Burma",
+        "alpha2": "BU",
+        "alpha3": "BUR",
+        "numeric": "104",
+        "iso_3166_3_alpha4": "BUMM"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1989
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Myanmar",
+            "alpha2": "MM",
+            "alpha3": "MMR",
+            "numeric": "104"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Byelorussian SSR",
+        "alpha2": "BY",
+        "alpha3": "BYS",
+        "numeric": "112",
+        "iso_3166_3_alpha4": "BYAA"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1992
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Belarus",
+            "alpha2": "BY",
+            "alpha3": "BLR",
+            "numeric": "112"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Canton and Enderbury Islands",
+        "alpha2": "CT",
+        "alpha3": "CTE",
+        "numeric": "128",
+        "iso_3166_3_alpha4": "CTKI"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1984
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "Kiribati",
+            "alpha2": "KI",
+            "alpha3": "KIR",
+            "numeric": "296"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Czechoslovakia",
+        "alpha2": "CS",
+        "alpha3": "CSK",
+        "numeric": "200",
+        "iso_3166_3_alpha4": "CSHH"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1993
+      },
+      "transition": {
+        "type": "divided",
+        "successors": [
+          {
+            "name": "Czechia",
+            "alpha2": "CZ",
+            "alpha3": "CZE",
+            "numeric": "203"
+          },
+          {
+            "name": "Slovakia",
+            "alpha2": "SK",
+            "alpha3": "SVK",
+            "numeric": "703"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Dahomey",
+        "alpha2": "DY",
+        "alpha3": "DHY",
+        "numeric": "204",
+        "iso_3166_3_alpha4": "DYBJ"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1977
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Benin",
+            "alpha2": "BJ",
+            "alpha3": "BEN",
+            "numeric": "204"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Dronning Maud Land",
+        "alpha2": "NQ",
+        "alpha3": "ATN",
+        "numeric": "216",
+        "iso_3166_3_alpha4": "NQAQ"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1983
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "Antarctica",
+            "alpha2": "AQ",
+            "alpha3": "ATA",
+            "numeric": "010"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "East Timor",
+        "alpha2": "TP",
+        "alpha3": "TMP",
+        "numeric": "626",
+        "iso_3166_3_alpha4": "TPTL"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 2002
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Timor-Leste",
+            "alpha2": "TL",
+            "alpha3": "TLS",
+            "numeric": "626"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "France, Metropolitan",
+        "alpha2": "FX",
+        "alpha3": "FXX",
+        "numeric": "249",
+        "iso_3166_3_alpha4": "FXFR"
+      },
+      "validity_period": {
+        "start": 1993,
+        "end": 1997
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "France",
+            "alpha2": "FR",
+            "alpha3": "FRA",
+            "numeric": "250"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "French Afars and Issas",
+        "alpha2": "AI",
+        "alpha3": "AFI",
+        "numeric": "262",
+        "iso_3166_3_alpha4": "AIDJ"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1977
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Djibouti",
+            "alpha2": "DJ",
+            "alpha3": "DJI",
+            "numeric": "262"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "French Southern and Antarctic Territories",
+        "alpha2": "FQ",
+        "alpha3": "ATF",
+        "numeric": null,
+        "iso_3166_3_alpha4": "FQHH"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1979
+      },
+      "transition": {
+        "type": "divided",
+        "successors": [
+          {
+            "name": "Part of Antarctica",
+            "alpha2": "AQ",
+            "alpha3": "ATA",
+            "numeric": "010"
+          },
+          {
+            "name": "(i.e., Adélie Land) French Southern Territories",
+            "alpha2": "TF",
+            "alpha3": "ATF",
+            "numeric": "260"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "German Democratic Republic",
+        "alpha2": "DD",
+        "alpha3": "DDR",
+        "numeric": "278",
+        "iso_3166_3_alpha4": "DDDE"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1990
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "Germany",
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "numeric": "276"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Gilbert Islands",
+        "alpha2": "GE",
+        "alpha3": "GEL",
+        "numeric": null,
+        "iso_3166_3_alpha4": "GEHH"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1979
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Kiribati",
+            "alpha2": "KI",
+            "alpha3": "KIR",
+            "numeric": "296"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Johnston Island",
+        "alpha2": "JT",
+        "alpha3": "JTN",
+        "numeric": "396",
+        "iso_3166_3_alpha4": "JTUM"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1986
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "United States Minor Outlying Islands",
+            "alpha2": "UM",
+            "alpha3": "UMI",
+            "numeric": "581"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Midway Islands",
+        "alpha2": "MI",
+        "alpha3": "MID",
+        "numeric": "488",
+        "iso_3166_3_alpha4": "MIUM"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1986
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "United States Minor Outlying Islands",
+            "alpha2": "UM",
+            "alpha3": "UMI",
+            "numeric": "581"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Netherlands Antilles",
+        "alpha2": "AN",
+        "alpha3": "ANT",
+        "numeric": null,
+        "iso_3166_3_alpha4": "ANHH"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 2010
+      },
+      "transition": {
+        "type": "divided",
+        "successors": [
+          {
+            "name": "Bonaire, Sint Eustatius and Saba",
+            "alpha2": "BQ",
+            "alpha3": "BES",
+            "numeric": "535"
+          },
+          {
+            "name": "Curaçao",
+            "alpha2": "CW",
+            "alpha3": "CUW",
+            "numeric": "531"
+          },
+          {
+            "name": "Sint Maarten (Dutch part)",
+            "alpha2": "SX",
+            "alpha3": "SXM",
+            "numeric": "534"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Neutral Zone",
+        "alpha2": "NT",
+        "alpha3": "NTZ",
+        "numeric": "536",
+        "iso_3166_3_alpha4": "NTHH"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1993
+      },
+      "transition": {
+        "type": "divided",
+        "successors": [
+          {
+            "name": "Part of Iraq",
+            "alpha2": "IQ",
+            "alpha3": "IRQ",
+            "numeric": "368"
+          },
+          {
+            "name": "Part of Saudi Arabia",
+            "alpha2": "SA",
+            "alpha3": "SAU",
+            "numeric": "682"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "New Hebrides",
+        "alpha2": "NH",
+        "alpha3": "NHB",
+        "numeric": null,
+        "iso_3166_3_alpha4": "NHVU"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1980
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Vanuatu",
+            "alpha2": "VU",
+            "alpha3": "VUT",
+            "numeric": "548"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Pacific Islands (Trust Territory)",
+        "alpha2": "PC",
+        "alpha3": "PCI",
+        "numeric": "582",
+        "iso_3166_3_alpha4": "PCHH"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1986
+      },
+      "transition": {
+        "type": "divided",
+        "successors": [
+          {
+            "name": "Marshall Islands",
+            "alpha2": "MH",
+            "alpha3": "MHL",
+            "numeric": "584"
+          },
+          {
+            "name": "Micronesia (Federated States of)",
+            "alpha2": "FM",
+            "alpha3": "FSM",
+            "numeric": "583"
+          },
+          {
+            "name": "Northern Mariana Islands",
+            "alpha2": "MP",
+            "alpha3": "MNP",
+            "numeric": "580"
+          },
+          {
+            "name": "Palau",
+            "alpha2": "PW",
+            "alpha3": "PLW",
+            "numeric": "585"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Panama Canal Zone",
+        "alpha2": "PZ",
+        "alpha3": "PCZ",
+        "numeric": null,
+        "iso_3166_3_alpha4": "PZPA"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1980
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "Panama",
+            "alpha2": "PA",
+            "alpha3": "PAN",
+            "numeric": "591"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Serbia and Montenegro",
+        "alpha2": "CS",
+        "alpha3": "SCG",
+        "numeric": "891",
+        "iso_3166_3_alpha4": "CSXX [note 6]"
+      },
+      "validity_period": {
+        "start": 2003,
+        "end": 2006
+      },
+      "transition": {
+        "type": "divided",
+        "successors": [
+          {
+            "name": "Montenegro",
+            "alpha2": "ME",
+            "alpha3": "MNE",
+            "numeric": "499"
+          },
+          {
+            "name": "Serbia",
+            "alpha2": "RS",
+            "alpha3": "SRB",
+            "numeric": "688"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Sikkim",
+        "alpha2": "SK",
+        "alpha3": "SKM",
+        "numeric": null,
+        "iso_3166_3_alpha4": "SKIN"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1975
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "India",
+            "alpha2": "IN",
+            "alpha3": "IND",
+            "numeric": "356"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Southern Rhodesia",
+        "alpha2": "RH",
+        "alpha3": "RHO",
+        "numeric": null,
+        "iso_3166_3_alpha4": "RHZW"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1980
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Zimbabwe",
+            "alpha2": "ZW",
+            "alpha3": "ZWE",
+            "numeric": "716"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "United States Miscellaneous Pacific Islands",
+        "alpha2": "PU",
+        "alpha3": "PUS",
+        "numeric": "849",
+        "iso_3166_3_alpha4": "PUUM"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1986
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "United States Minor Outlying Islands",
+            "alpha2": "UM",
+            "alpha3": "UMI",
+            "numeric": "581"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Upper Volta",
+        "alpha2": "HV",
+        "alpha3": "HVO",
+        "numeric": "854",
+        "iso_3166_3_alpha4": "HVBF"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1984
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Burkina Faso",
+            "alpha2": "BF",
+            "alpha3": "BFA",
+            "numeric": "854"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "USSR",
+        "alpha2": "SU",
+        "alpha3": "SUN",
+        "numeric": "810",
+        "iso_3166_3_alpha4": "SUHH"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1992
+      },
+      "transition": {
+        "type": "divided",
+        "successors": [
+          {
+            "name": "Armenia",
+            "alpha2": "AM",
+            "alpha3": "ARM",
+            "numeric": "051"
+          },
+          {
+            "name": "Azerbaijan",
+            "alpha2": "AZ",
+            "alpha3": "AZE",
+            "numeric": "031"
+          },
+          {
+            "name": "Estonia",
+            "alpha2": "EE",
+            "alpha3": "EST",
+            "numeric": "233"
+          },
+          {
+            "name": "Georgia",
+            "alpha2": "GE",
+            "alpha3": "GEO",
+            "numeric": "268"
+          },
+          {
+            "name": "Kazakhstan",
+            "alpha2": "KZ",
+            "alpha3": "KAZ",
+            "numeric": "398"
+          },
+          {
+            "name": "Kyrgyzstan",
+            "alpha2": "KG",
+            "alpha3": "KGZ",
+            "numeric": "417"
+          },
+          {
+            "name": "Latvia",
+            "alpha2": "LV",
+            "alpha3": "LVA",
+            "numeric": "428"
+          },
+          {
+            "name": "Lithuania",
+            "alpha2": "LT",
+            "alpha3": "LTU",
+            "numeric": "440"
+          },
+          {
+            "name": "Moldova, Republic of",
+            "alpha2": "MD",
+            "alpha3": "MDA",
+            "numeric": "498"
+          },
+          {
+            "name": "Russian Federation",
+            "alpha2": "RU",
+            "alpha3": "RUS",
+            "numeric": "643"
+          },
+          {
+            "name": "Tajikistan",
+            "alpha2": "TJ",
+            "alpha3": "TJK",
+            "numeric": "762"
+          },
+          {
+            "name": "Turkmenistan",
+            "alpha2": "TM",
+            "alpha3": "TKM",
+            "numeric": "795"
+          },
+          {
+            "name": "Uzbekistan",
+            "alpha2": "UZ",
+            "alpha3": "UZB",
+            "numeric": "860"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Viet-Nam, Democratic Republic of",
+        "alpha2": "VD",
+        "alpha3": "VDR",
+        "numeric": null,
+        "iso_3166_3_alpha4": "VDVN"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1977
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "Viet Nam",
+            "alpha2": "VN",
+            "alpha3": "VNM",
+            "numeric": "704"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Wake Island",
+        "alpha2": "WK",
+        "alpha3": "WAK",
+        "numeric": "872",
+        "iso_3166_3_alpha4": "WKUM"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1986
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "United States Minor Outlying Islands",
+            "alpha2": "UM",
+            "alpha3": "UMI",
+            "numeric": "581"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Yemen, Democratic",
+        "alpha2": "YD",
+        "alpha3": "YMD",
+        "numeric": "720",
+        "iso_3166_3_alpha4": "YDYE"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1990
+      },
+      "transition": {
+        "type": "merged",
+        "successors": [
+          {
+            "name": "Yemen",
+            "alpha2": "YE",
+            "alpha3": "YEM",
+            "numeric": "887"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Yugoslavia",
+        "alpha2": "YU",
+        "alpha3": "YUG",
+        "numeric": null,
+        "iso_3166_3_alpha4": "YUCS"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 2003
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Serbia and Montenegro",
+            "alpha2": "CS",
+            "alpha3": "SCG",
+            "numeric": "891"
+          }
+        ]
+      }
+    },
+    {
+      "former_country": {
+        "name": "Zaire",
+        "alpha2": "ZR",
+        "alpha3": "ZAR",
+        "numeric": "180",
+        "iso_3166_3_alpha4": "ZRCD"
+      },
+      "validity_period": {
+        "start": 1974,
+        "end": 1997
+      },
+      "transition": {
+        "type": "name_changed",
+        "successors": [
+          {
+            "name": "Congo, Democratic Republic of the",
+            "alpha2": "CD",
+            "alpha3": "COD",
+            "numeric": "180"
+          }
+        ]
+      }
+    }
+  ]
+}
